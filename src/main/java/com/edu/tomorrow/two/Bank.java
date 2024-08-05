@@ -3,7 +3,7 @@ package com.edu.tomorrow.two;
 public class Bank {
     AccountHolder ac1, ac2, ac3;
 
-    public Bank(String name1, CheckingAccount ca1, String name2, CheckingAccount ca2, String name3, CheckingAccount ca3) {
+    public Bank(String name1, String name2, String name3) {
         ac1 = new AccountHolder(name1);
         ac2 = new AccountHolder(name2);
         ac3 = new AccountHolder(name3);

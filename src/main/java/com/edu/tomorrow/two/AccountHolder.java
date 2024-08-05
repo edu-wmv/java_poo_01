@@ -6,6 +6,7 @@ public class AccountHolder {
 
     public AccountHolder(String name) {
         this.name = name;
+        /* instead of initiate the checking account outside the object, the class creates it*/
         this.account = new CheckingAccount();
     }
 
