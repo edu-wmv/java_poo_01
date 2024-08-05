@@ -4,7 +4,7 @@
 <p>As atividades estão dividas em pacotes:</p>
 <li>Atividade 1 - <code>com.edu.tomorrow.one</code></li>
 <li>Atividade 2 - <code>com.edu.tomorrow.two</code></li>
-
+<br>
 <span>Todas as atividades possuem os seus testes validados.</span>
 
 <h2>Atividade I</h2>
